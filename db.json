@@ -1,5 +1,5 @@
 {
-  "posts": [
+   [
     {
         
         "nume":"Stefan Andrei",
@@ -7,17 +7,12 @@
         "varsta":"32",
         "departament":"IT"
     },
-
-
-
     {
-        
         "nume":"Stef Alin",
         "adresa":"Strada de sus",
         "varsta":"43",
         "departament":"Muncitor"
     },
-
     {
         
         "nume":"Marcel Marinel",
